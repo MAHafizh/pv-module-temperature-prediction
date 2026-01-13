@@ -31,8 +31,6 @@ pip install requirements
 
 ## Result Visualization
 
-## 📊 Hasil dan Visualisasi
-
 <p align="center">
   <img src="result_images/LSTM.png" width="700">
 Figure 1. LSTM model performance visualization.
