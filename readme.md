@@ -2,6 +2,9 @@
 
 This repository contain the implementation of my research about prediction of photovoltaic module temperature using LSTM-Attention
 
+## dataset
+- kaggle: https://www.kaggle.com/datasets/tecsci/brazilian-pv-dataset
+
 ## Requirements
 - Python >= 3.10
 - Jupyter Notebook
